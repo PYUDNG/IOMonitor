@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jimp": "^0.22.12",
+    "robotjs": "^0.6.0"
+  }
+}
