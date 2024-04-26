@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "color-diff": "^1.4.0",
     "jimp": "^0.22.12",
     "robotjs": "^0.6.0"
   }
